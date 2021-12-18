@@ -71,25 +71,30 @@ Clash Royale 👑 🎖️
 <br><br>
 Celeste 🍓 🥇
 <br>
+<p>
  <img align="left" alt="jpg" src="./pic/ce4.jpg" width="40px">
 <img align="left" alt="jpg" src="./pic/ce2.jpg" width="40px">
 <img align="left" alt="jpg" src="./pic/ce3.jpg" width="40px">
  <img align="left" alt="jpg" src="./pic/ce1.jpg" width="40px" >
+ </p>
 <br>
 
 Hollow Knight 🗡️ 🥈
 <br>
+ <p>
  <img align="left" alt="jpg" src="./pic/hk2.jpg" width="40px">
 <img align="left" alt="jpg" src="./pic/hk3.jpg" width="40px">
 <img align="left" alt="jpg" src="./pic/hk4.jpg" width="40px">
  <img align="left" alt="jpg" src="./pic/hk1.jpg" width="40px" >
+  </p>
 <br>
 
 Getting over it with bennett foddy 🔨 🥉
 <br>
+ <p>
  <img align="left" alt="jpg" src="./pic/get.jpg" width="40px">
  <img align="left" alt="jpg" src="./pic/get2.jpg" width="40px">
-
+ </p>
 <br><br>
 
 
