@@ -68,7 +68,7 @@ Clash Royale 👑 🎖️
  <img align="left" alt="GIF" src="./pic/cr_challenge.png" width="50px" >
  <img align="left" alt="GIF" src="./pic/cr_5.png" width="50px" >
 <br>
-<br>
+<br><br>
 Celeste 🍓 🥇
 <br>
  <img align="left" alt="jpg" src="./pic/ce4.jpg" width="40px">
