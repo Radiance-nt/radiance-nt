@@ -59,14 +59,18 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 Overwatch 🌈 🎖️
 <br>
+ <p>
  <img align="center" alt="GIF" src="./pic/ow.PNG" width="50%" height="50%">  &nbsp;
  <img align="center" alt="webp" src="./pic/ow2.webp" width="50%">
+  </p>
 <br>
 
 Clash Royale 👑 🎖️
 <br>
+ <p>
  <img align="left" alt="GIF" src="./pic/cr_challenge.png" width="50px" >
  <img align="left" alt="GIF" src="./pic/cr_5.png" width="50px" >
+  </p>
 <br>
 <br><br>
 Celeste 🍓 🥇
