@@ -90,8 +90,8 @@ Hollow Knight 🗡️ 🥈
 <img align="left" alt="jpg" src="./pic/hk3.jpg" width="40px">
 <img align="left" alt="jpg" src="./pic/hk4.jpg" width="40px">
  <img align="left" alt="jpg" src="./pic/hk1.jpg" width="40px" >
-  </p>
-<br>
+</p>
+<br><br>
 
 Getting over it with bennett foddy 🔨 🥉
 <br>
