@@ -65,7 +65,7 @@ Overwatch 🌈 🎖️
 
 Clash Royale 👑 🎖️
 <br>
- <img align="center" alt="GIF" src="./pic/cr_challenge.png" width="50px" >
+ <img align="left" alt="GIF" src="./pic/cr_challenge.png" width="50px" >
  <img align="left" alt="GIF" src="./pic/cr_5.png" width="50px" >
 <br>
 
@@ -90,7 +90,7 @@ Getting over it with bennett foddy 🔨 🥉
  <img align="left" alt="jpg" src="./pic/get.jpg" width="40px">
  <img align="left" alt="jpg" src="./pic/get2.jpg" width="40px">
 
-<br>
+<br><br>
 
 
 🚧 **My Stats:**
