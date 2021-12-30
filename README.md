@@ -55,7 +55,7 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-✨ **Awards**
+✨ **Achievements**
 
 Overwatch 🌈 🎖️
 <br>
