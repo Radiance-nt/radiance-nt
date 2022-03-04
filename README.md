@@ -108,5 +108,3 @@ Getting over it with bennett foddy 🔨 🥉
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Radiance-nt&show_icons=true&theme=radical" width="360px" height="150px" />
 
 ❤️ Reinforcement learning   ❤️ Meta-learning
-
-💔 Bayes
