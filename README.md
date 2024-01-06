@@ -1,43 +1,58 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
-[//]: # (<img align="right" alt="png" src="assets/ggd.png" width="200" height="200">)
+ <img align="right" src="assets/ggd.png" alt="png" style="width: 30%; max-width: 224px; height: auto; object-fit: contain;">
 
-[//]: # (**Here is**)
+**Here is**
+***me***
+**!**
 
-[//]: # (***me***)
+- 🔭 I’m currently working on works.
 
-[//]: # (**!**)
+- 🌱 I’m currently learning with learning materials.
 
-[//]: # (- 🔭 I’m currently working on works.)
+- 👯 I’m looking to collaborate with collaborators.
 
-[//]: # (- 🌱 I’m currently learning with learning materials.)
+- 💬 Ask me about what you want to ask.
 
-[//]: # (- 👯 I’m looking to collaborate with collaborators.)
+- 📫 How to reach me: to reach somewhere I reach.
 
-[//]: # (- 💬 Ask me about what you want to ask.)
+- 😄 Fun facts are very funny.
 
-[//]: # (- 📫 How to reach me: to reach somewhere I reach.)
+[//]: # (<table style="border-collapse: collapse; width: 90%; border: 0;">)
 
-[//]: # (- 😄 Fun facts are very funny.)
+[//]: # (  <tr>)
 
-<table style="border-collapse: collapse; width: 90%; border: 0;">
-  <tr>
-    <td style="border: 0; width: 90%;">
-      <b>Here is</b>
-      <i>me</i>
-      <b>!</b><br>
-      - 🔭 I’m currently working on works.<br>
-      - 🌱 I’m currently learning with learning materials.<br>
-      - 👯 I’m looking to collaborate with collaborators.<br>
-      - 💬 Ask me about what you want to ask.<br>
-      - 📫 How to reach me: to reach somewhere I reach.<br>
-      - 😄 Fun facts are very funny.<br>
-    </td>
-    <td align="right" style="border: 0; width: 10%;">
-      <img src="assets/ggd.png" alt="png" style="width: 100%; max-width: 50px; height: auto; object-fit: contain;">
-    </td>
-  </tr>
-</table>
+[//]: # (    <td style="border: 0; width: 70%;">)
+
+[//]: # (      <b>Here is</b>)
+
+[//]: # (      <i>me</i>)
+
+[//]: # (      <b>!</b><br>)
+
+[//]: # (      - 🔭 I’m currently working on works.<br>)
+
+[//]: # (      - 🌱 I’m currently learning with learning materials.<br>)
+
+[//]: # (      - 👯 I’m looking to collaborate with collaborators.<br>)
+
+[//]: # (      - 💬 Ask me about what you want to ask.<br>)
+
+[//]: # (      - 📫 How to reach me: to reach somewhere I reach.<br>)
+
+[//]: # (      - 😄 Fun facts are very funny.<br>)
+
+[//]: # (    </td>)
+
+[//]: # (    <td align="right" style="border: 0; width: 30%;">)
+
+[//]: # (      <img src="assets/ggd.png" alt="png" style="width: 100%; max-width: 500px; height: auto; object-fit: contain;">)
+
+[//]: # (    </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
 
 
 
@@ -64,7 +79,6 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### ✨ Favourites:
 
