@@ -75,8 +75,6 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-### 🚧 My Status:
-
 [//]: # (https://juejin.cn/post/7255184207243214906)
 
 [//]: # (<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">)
