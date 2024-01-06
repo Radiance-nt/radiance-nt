@@ -34,7 +34,7 @@
       - 😄 Fun facts are very funny.<br>
     </td>
     <td align="right" style="border: 0; width: 10%;">
-      <img src="assets/ggd.png" alt="png" style="width: 100%; max-width: 200px; height: auto; object-fit: contain;">
+      <img src="assets/ggd.png" alt="png" style="width: 50%; max-width: 100px; height: auto; object-fit: contain;">
     </td>
   </tr>
 </table>
