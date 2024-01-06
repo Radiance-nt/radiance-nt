@@ -66,7 +66,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
-### ⚡️Ultimate GitHub Challenge:
+### ⚡️ Ultimate GitHub Challenge:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=750&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" /></a>
 
