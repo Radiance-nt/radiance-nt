@@ -20,10 +20,9 @@
 
 [//]: # (- 😄 Fun facts are very funny.)
 
-<table style="border-collapse: collapse; width: 100%; border: 0;">
+<table style="border-collapse: collapse; width: 90%; border: 0;">
   <tr>
-    <!-- 文字部分 -->
-    <td style="border: 0; width: 75%;">
+    <td style="border: 0; width: 90%;">
       <b>Here is</b>
       <i>me</i>
       <b>!</b><br>
@@ -34,8 +33,7 @@
       - 📫 How to reach me: to reach somewhere I reach.<br>
       - 😄 Fun facts are very funny.<br>
     </td>
-    <!-- 图片部分 -->
-    <td align="right" style="border: 0; width: 25%;">
+    <td align="right" style="border: 0; width: 10%;">
       <img src="assets/ggd.png" alt="png" style="width: 100%; max-width: 200px; height: auto; object-fit: contain;">
     </td>
   </tr>
