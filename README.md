@@ -84,8 +84,9 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 [//]: # (#### Overwatch 🌈 🎖️)
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="assets/ow.PNG" alt="GIF" style="max-width: 70%; height: auto;">
-    <img src="assets/ow2.webp" alt="webp" style="max-width: 70%; height: auto;">
+    <img src="assets/ow.PNG" alt="GIF" style="max-width: 90%; height: auto;">
+    <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
+    <img src="assets/goi.png" alt="png" style="max-width: 90%; height: auto;">
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -100,7 +101,7 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 [//]: # (</div>)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
