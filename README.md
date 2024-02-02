@@ -1,6 +1,7 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
- <img align="right" src="assets/ggd.png" alt="png" style="width: 30%; max-width: 224px; height: auto; object-fit: contain;">
+ <img align="right" src="assets/ggd_trans.png" alt="png" style="width: 30%; max-width: 224px; height: auto; object-fit: contain;">
+
 
 **Here is**
 ***me***
@@ -87,6 +88,8 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
     <img src="assets/ow.PNG" alt="GIF" style="max-width: 90%; height: auto;">
     <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
     <img src="assets/goi.png" alt="png" style="max-width: 90%; height: auto;">
+    <img src="assets/zelda.jpeg" alt="jpg" style="max-width: 90%; height: auto;">
+    <img src="assets/mario.jpeg" alt="jpg" style="max-width: 90%; height: auto;">
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
