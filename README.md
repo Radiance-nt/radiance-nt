@@ -68,9 +68,11 @@
 
 ### 🏅 Achievements:
 
-1. Owner of the 2024 Thomas Cup men's singles champion's same color grip tape (2024年汤姆斯杯男子单打冠军选手同颜色手胶拥有者).
-2. Contestant of the 2023 National Chess Premier League men's champion's same chess software in the live stream (2023全国象棋男子甲级联赛总冠军直播常用的象棋软件使用者).
-3. Player of the 2023 Chopin International Piano Competition participant's same number of keys musical instrument (2023年肖邦国际钢琴比赛等数量琴键演奏者).
+- Owner of the 2024 Thomas Cup men's singles champion's same color grip tape *(2024年汤姆斯杯男子单打冠军选手同颜色手胶拥有者)*.
+
+- Contestant of the 2023 National Chess Premier League men's champion's same chess software in the live stream *(2023全国象棋男子甲级联赛总冠军直播常用的象棋软件使用者)*.
+
+- Player of the 2023 Chopin International Piano Competition participant's same number of keys musical instrument *(2023年肖邦国际钢琴比赛等数量琴键演奏者)*.
 
 ### ⚡️ Ultimate GitHub Challenge:
 
