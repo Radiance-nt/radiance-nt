@@ -72,7 +72,7 @@
 
 - Contestant of the 2023 National Chess Premier League men's champion's same chess software in the live stream *(2023全国象棋男子甲级联赛总冠军直播常用的象棋软件使用者)*.
 
-- Player of the 2023 Chopin International Piano Competition participant's same number of keys musical instrument *(2023年肖邦国际钢琴比赛等数量琴键演奏者)*.
+- Player of the 2023 Chopin International Piano Competition champion's same number of keys musical instrument *(2023年肖邦国际钢琴比赛第一名参赛者等数量琴键演奏者)*.
 
 ### ⚡️ Ultimate GitHub Challenge:
 
