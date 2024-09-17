@@ -78,7 +78,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=750&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" /></a>
 
-<img width="80%" src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp"/>
+<img width="20%" src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp"/>
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
