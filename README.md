@@ -1,60 +1,23 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
+ <img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" style="width: 40%; max-width: 224px; height: auto; object-fit: contain;">
+
+
 **Here is**
 ***me***
 **!**
 
-<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF" width="50%" height="auto">
+- 🔭 I’m currently working on works.
 
-- 🔭 I'm currently working on works.
+- 🌱 I’m currently learning with learning materials.
 
-- 🌱 I'm currently learning with learning materials.
-
-- 👯 I'm looking to collaborate with collaborators.
+- 👯 I’m looking to collaborate with collaborators.
 
 - 💬 Ask me about what you want to ask.
 
 - 📫 How to reach me: to reach somewhere I reach.
 
 - 😄 Fun facts are very funny.
-
-- 
-[//]: # (<table style="border-collapse: collapse; width: 90%; border: 0;">)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="border: 0; width: 70%;">)
-
-[//]: # (      <b>Here is</b>)
-
-[//]: # (      <i>me</i>)
-
-[//]: # (      <b>!</b><br>)
-
-[//]: # (      - 🔭 I’m currently working on works.<br>)
-
-[//]: # (      - 🌱 I’m currently learning with learning materials.<br>)
-
-[//]: # (      - 👯 I’m looking to collaborate with collaborators.<br>)
-
-[//]: # (      - 💬 Ask me about what you want to ask.<br>)
-
-[//]: # (      - 📫 How to reach me: to reach somewhere I reach.<br>)
-
-[//]: # (      - 😄 Fun facts are very funny.<br>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="right" style="border: 0; width: 30%;">)
-
-[//]: # (      <img src="assets/ggd.png" alt="png" style="width: 100%; max-width: 500px; height: auto; object-fit: contain;">)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (</table>)
-
 
 
 ### 💡 Check me out:
