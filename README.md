@@ -1,6 +1,6 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
-<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" width="30%" style="max-width: 200px; max-height: 200px; object-fit: contain;">
+<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" width="25%" style="max-width: 200px; max-height: 200px; object-fit: contain;">
 
 **Here is**
 ***me***
@@ -17,8 +17,6 @@
 - 📫 How to reach me: to reach somewhere I reach.
 
 - 😄 Fun facts are very funny.
-
-<br/>
 
 ### 💡 Check me out:
 
