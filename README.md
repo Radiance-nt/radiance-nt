@@ -4,8 +4,7 @@
 ***me***
 **!**
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
+<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF" width="50%" height="auto">
 
 - 🔭 I'm currently working on works.
 
@@ -19,12 +18,7 @@
 
 - 😄 Fun facts are very funny.
 
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF" style="max-height: 180px; width: auto;">
-  </div>
-</div>
-
+- 
 [//]: # (<table style="border-collapse: collapse; width: 90%; border: 0;">)
 
 [//]: # (  <tr>)
