@@ -1,5 +1,9 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
+| 关于我 | 图片 |
+|-------|------|
+| - 🔭 I'm currently working on works.<br><br>- 🌱 I'm currently learning with learning materials.<br><br>- 👯 I'm looking to collaborate with collaborators.<br><br>- 💬 Ask me about what you want to ask.<br><br>- 📫 How to reach me: to reach somewhere I reach.<br><br>- 😄 Fun facts are very funny. | <img src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF" width="100%"> |
+
  <img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" style="width: 45%; height: auto; contain;">
 
 
