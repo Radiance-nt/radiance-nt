@@ -1,6 +1,6 @@
 ## Hello~   <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" /> 
 
-<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" width="40%" style="max-width: 20px; max-height: 20px; object-fit: contain;">
+<img align="right" src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="gif" width="35%" style="max-width: 200px; max-height: 200px; object-fit: contain;">
 
 **Here is**
 ***me***
