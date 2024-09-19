@@ -4,7 +4,7 @@
 ***me***
 **!**
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="50%">
 
@@ -21,8 +21,8 @@
 - 😄 Fun facts are very funny.
 
     </td>
-    <td valign="top" width="50%">
-      <img src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF">
+    <td valign="top" width="50%" align="center">
+      <img src="https://valorantinfo.com/images/sprays/712f583b-fullicon_gif.gif" alt="Valorant GIF" style="max-height: 200px; width: auto;">
     </td>
   </tr>
 </table>
