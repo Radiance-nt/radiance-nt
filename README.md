@@ -78,5 +78,5 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img  src="https://s2.loli.net/2024/09/19/N9D7jbdYwLs4Bqo.jpg"  alt="jpg" style="max-width: 90%; height: auto;">
+    <img  src="https://s2.loli.net/2024/09/19/hOiIngVH1wy3Smc.jpg"  alt="jpg" style="max-width: 90%; height: auto;">
 </div>
