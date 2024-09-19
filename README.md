@@ -94,8 +94,8 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 [//]: # (#### Overwatch 🌈 🎖️)
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <img src="assets/ow.PNG" alt="GIF" style="max-width: 90%; height: auto;">
-    <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
-    <img src="assets/zelda.jpeg" alt="jpg" style="max-width: 90%; height: auto;">
+<!--     <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
+    <img src="assets/zelda.jpeg" alt="jpg" style="max-width: 90%; height: auto;"> -->
     <img src="assets/mario.jpeg" alt="jpg" style="max-width: 90%; height: auto;">
 </div>
 
