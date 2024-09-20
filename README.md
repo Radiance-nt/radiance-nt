@@ -44,7 +44,7 @@
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Rest     167 hrs 59 mins   ██████████████████████████████████████   99.99 % 
+Play     167 hrs 59 mins   ██████████████████████████████████████   99.99 % 
 Work     1 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 <!--END_SECTION:waka-->
@@ -54,10 +54,10 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 [//]: # (#### Overwatch 🌈 🎖️)
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="assets/ow.PNG" alt="GIF" style="max-width: 90%; height: auto;">
+    <img src="https://s2.loli.net/2024/09/20/rZvpmjXQbg1uI6f.png" alt="GIF" style="max-width: 90%; height: auto;">
 <!--     <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
     <img src="assets/zelda.jpeg" alt="jpg" style="max-width: 90%; height: auto;"> -->
-    <img src="assets/mario.jpeg" alt="jpg" style="max-width: 90%; height: auto;">
+    <img src="https://s2.loli.net/2024/09/20/BK4zb5S6kisvgdQ.jpg" alt="jpg" style="max-width: 90%; height: auto;">
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
