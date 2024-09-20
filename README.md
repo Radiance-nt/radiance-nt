@@ -54,12 +54,16 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <img src="https://s2.loli.net/2024/09/20/rZvpmjXQbg1uI6f.png" alt="GIF" style="max-width: 90%; height: auto;">
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <img src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png" alt="jpg" style="flex-basis: 50%; max-width: 50%; height: auto;">
-        <img src="https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_600/Marketing/pmp_loz-eow-jwfmv0owx9/gameplay/echoes/echoes-decoration" alt="jpg" style="flex-basis: 50%; max-width: 50%; height: auto;">
-    </div>
     <!--     <img src="https://s2.loli.net/2024/09/20/BK4zb5S6kisvgdQ.jpg" alt="jpg" style="max-width: 90%; height: auto;"> -->
 </div>
+
+<div style="display: inline-block; width: 49%;">
+    <img src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png" alt="jpg" style="width: 100%;">
+</div>
+<div style="display: inline-block; width: 49%;">
+    <img src="https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_600/Marketing/pmp_loz-eow-jwfmv0owx9/gameplay/echoes/echoes-decoration" alt="jpg" style="width: 100%;">
+</div>
+
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
