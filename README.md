@@ -58,8 +58,8 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 </div>
 
 <div style="display: inline-block; width: 49%;">
-    <img src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png" alt="jpg" style="width: 49%;">
-    <img src="https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_600/Marketing/pmp_loz-eow-jwfmv0owx9/gameplay/echoes/echoes-decoration" alt="jpg" style="width: 49%;">
+    <img src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png" alt="jpg" style="width: 49%; height: 80pt;">
+    <img src="https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_600/Marketing/pmp_loz-eow-jwfmv0owx9/gameplay/echoes/echoes-decoration" alt="jpg" style="width: 49%;height: 80pt;">
 </div>
 
 
