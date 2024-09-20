@@ -62,6 +62,26 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
     
 </div>
 
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<img src="https://s2.loli.net/2024/09/20/rZvpmjXQbg1uI6f.png" alt="GIF" style="max-width: 90%; height: auto;">
+<!--     <img src="assets/ow2.webp" alt="webp" style="max-width: 90%; height: auto;">
+@@ -63,18 +62,6 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+[//]: # (https://juejin.cn/post/7255184207243214906)
+
+[//]: # (<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">)
+
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api?username=Radiance-nt&show_icons=true&theme=radical" alt="GIF" style="width: 360px; height: 150px; flex: 0 0 auto;">)
+
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiance-nt&theme=radical&layout=compact" alt="GIF" style="width: 343px; height: 150px; flex: 0 0 auto;">)
+
+[//]: # (</div>)
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
