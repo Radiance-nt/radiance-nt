@@ -35,6 +35,10 @@
 
 - Player of the 2023 Chopin International Piano Competition champion's same number of keys musical instrument *(2023年肖邦国际钢琴比赛第一名参赛者等数量琴键演奏者)*.
 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" style="max-width: 60%; height: auto;">
+</div>
+
 ### ⚡️ Ultimate GitHub Challenge:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=750&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" /></a>
