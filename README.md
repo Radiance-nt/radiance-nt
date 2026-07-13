@@ -18,14 +18,6 @@
 
 - 😄 Fun facts are very funny.
 
-### 💡 Check me out:
-
-<a href="https://space.bilibili.com/13486361" target="_blank" alt="bilibili" title="bilibili">
-<img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
-</a> 
-
-<br/>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### 🏅 Achievements:
 
@@ -45,22 +37,6 @@
 
 <img width="20%" src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp"/>
 
-### 📊 This Week I Spent My Time On:
-
-```text
-Play     167 hrs 59 mins   ██████████████████████████████████████   99.99 % 
-Work     1 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
-<img width="30%" src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png"/>
-
-### ✨ Favourites:
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://s2.loli.net/2024/09/20/rZvpmjXQbg1uI6f.png" alt="GIF" style="max-width: 90%; height: auto;">
-    <!--     <img src="https://s2.loli.net/2024/09/20/BK4zb5S6kisvgdQ.jpg" alt="jpg" style="max-width: 90%; height: auto;"> -->
-</div>
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 [//]: # (https://juejin.cn/post/7255184207243214906)
@@ -69,7 +45,5 @@ Work     1 mins            ░░░░░░░░░░░░░░░░░�
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<img width="30%" src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png"/>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img  src="https://s2.loli.net/2024/09/19/hOiIngVH1wy3Smc.jpg"  alt="jpg" style="max-width: 90%; height: auto;">
-</div>
