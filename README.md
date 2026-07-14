@@ -45,5 +45,5 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<img width="30%" src="https://supermariomaker.nintendo.com/assets/img/common/char-toad-toadette-2x.png"/>
+<img width="30%" src="https://i.mji.rip/2026/07/14/29f9626bf222e8fa23dd779f68cff924.png"/>
 
