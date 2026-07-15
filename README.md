@@ -20,11 +20,11 @@
 
 ### 🏅 Achievements:
 
-- Owner of the **2024 Thomas Cup** **men's singles champion**'s same color grip tape <br />*(**2024年汤姆斯杯男子单打冠军**同颜色手胶拥有者)*.
+- Owner of the **2024 Thomas Cup** **men's singles champion**'s same color grip tape <br />*(**2024年汤姆斯杯男子单打冠军**同颜色手胶拥有者)*
 
-- Contestant of the **2023 National Chess Premier League** **men's champion**'s same chess software in the live stream <br />*(**2023全国象棋男子甲级联赛总冠军**直播常用的象棋软件使用者)*.
+- Contestant of the **2023 National Chess Premier League** **men's champion**'s same chess software in the live stream <br />*(**2023全国象棋男子甲级联赛总冠军**直播常用的象棋软件使用者)*
 
-- Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music <br />*(**2025年肖邦国际钢琴比赛冠军**同款琴谱拥有者)*.
+- Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music <br />*(**2025年肖邦国际钢琴比赛冠军**同款琴谱拥有者)*
 
 <div align="center">
   <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" width="70%">
