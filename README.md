@@ -26,16 +26,16 @@
 
 - Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music *(**2025年肖邦国际钢琴比赛** **冠军**同款琴谱拥有者)*.
 
-<div align="center">
-  <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" width="60%">
-</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" style="max-width: 60%; height: auto;">
+</div> 
 
 ### ⚡️ Ultimate GitHub Challenge:
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" width="80%" height="120"></a><!--
-  --><img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" width="20%" height="120">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <a href="https://git.io/typing-svg" style="flex-grow: 1; min-width: 0;"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=620&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" style="width: 100%; height: 120px; object-fit: contain; object-position: left;" /></a>
+  <img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" style="height: 120px; width: auto; flex-shrink: 0; margin-left: 10px;" />
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
