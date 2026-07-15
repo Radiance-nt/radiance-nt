@@ -18,23 +18,23 @@
 
 - 😄 Fun facts are very funny.
 
-
 ### 🏅 Achievements:
 
-- Owner of the **2024 Thomas Cup** **men's singles champion**'s same color grip tape *(**2024年汤姆斯杯****男子单打冠军**选手同颜色手胶拥有者)*.
+- Owner of the **2024 Thomas Cup** **men's singles champion**'s same color grip tape *(**2024年汤姆斯杯** **男子单打冠军**选手同颜色手胶拥有者)*.
 
-- Contestant of the **2023 National Chess Premier League** **men's champion**'s same chess software in the live stream *(**2023全国象棋男子甲级联赛****总冠军**直播常用的象棋软件使用者)*.
+- Contestant of the **2023 National Chess Premier League** **men's champion**'s same chess software in the live stream *(**2023全国象棋男子甲级联赛** **总冠军**直播常用的象棋软件使用者)*.
 
-- Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music *(**2025年肖邦国际钢琴比赛****冠军**同款琴谱拥有者)*.
+- Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music *(**2025年肖邦国际钢琴比赛** **冠军**同款琴谱拥有者)*.
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" style="max-width: 60%; height: auto;">
+<div align="center">
+  <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" width="60%">
 </div>
 
 ### ⚡️ Ultimate GitHub Challenge:
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=620&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" height="120" /></a>&nbsp;&nbsp;<img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" height="120" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" width="80%" height="120"></a><!--
+  --><img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" width="20%" height="120">
 </p>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
