@@ -32,10 +32,10 @@
 
 ### ⚡️ Ultimate GitHub Challenge:
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=620&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" height="120" /></a>
-  <img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" height="120" />
-</div>
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=2000&color=F70000E6&vCenter=true&multiline=true&random=false&width=780&height=120&lines=Challenge%3A+Do+not+see+the+next+line!;You+lost!" alt="Typing SVG" width="86.6667%"></a><!--
+  --><img src="https://valorantinfo.com/images/cn/oh-i-see-spray_valorant_transparent_icon_58977.webp" alt="Oh, I see spray" width="13.3333%">
+</p>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
