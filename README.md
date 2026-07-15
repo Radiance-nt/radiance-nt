@@ -26,9 +26,10 @@
 
 - Possessor of the **2025 International Chopin Piano Competition** **champion**'s same piano sheet music <br />*(**2025年肖邦国际钢琴比赛** **冠军**同款琴谱拥有者)*.
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" style="max-width: 60%; height: auto;">
+<div align="center">
+  <img src="https://s2.loli.net/2024/09/22/eaFTsQMUnoxXAbJ.gif" alt="GIF" width="75%">
 </div>
+
 
 ### ⚡️ Ultimate GitHub Challenge:
 
